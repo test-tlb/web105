@@ -1,0 +1,11 @@
+import pandas as pd
+s = pd.Series(["a", "b", "c", "a"], dtype="category")
+print(s)
+
+
+import pandas as pd
+car_color = pd.Series(["Blue", "Red", "White", "Merune"], dtype="category")
+print(car_color)
+
+
+import pandas as pd
